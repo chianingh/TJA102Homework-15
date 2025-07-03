@@ -1,4 +1,4 @@
-package hw5;
+package hw5Ext;
 
 public abstract class Pen {
 
